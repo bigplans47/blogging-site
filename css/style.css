@@ -1,0 +1,15 @@
+.important {
+  font-weight: bold;
+}
+
+.stage1 {
+  color: blue
+}
+
+.stage2 {
+  color: red
+}
+
+.stage3 {
+  color: green
+}
