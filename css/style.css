@@ -3,21 +3,26 @@
 }
 
 .stage1 {
-  color: blue
+  color: blue;
+  margin-top: 40px;
 }
 
 .stage2 {
-  color: red
+  color: red;
+  margin-top: 40px;
 }
 
 .stage3 {
-  color: green
+  color: green;
+  margin-top: 40px;
 }
 
 .flashy1 {
   color: purple;
+  margin-top: 40px;
 }
 
 .flashy2 {
   font-weight: bold;
+  margin-top: 40px;
 }
